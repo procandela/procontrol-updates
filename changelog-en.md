@@ -1,5 +1,8 @@
 # Changelogs
 
+## 2.1.6
+ - The change from the last release is the integrated automatic masking or suppression/delay of certain errors and the resulting automatic reset of the lights. (Applies only to procontrol v2)
+
 ## 2.1.4-1	
  - Liol-E Clock output allows Logic when tower light clock = off
  - Various fixes for FTP upload of log files

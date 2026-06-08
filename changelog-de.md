@@ -1,5 +1,8 @@
 # Changelogs
 
+## 2.1.6
+ - Die Änderung gegenüber dem letzten Release ist die integrierte automatische Maskierung bzw. Ausblendung/Verzögerung bestimmter Fehler und das daraus resultierende automatische Reset der Feuer (Betrifft nur procontrol v2)
+
 ## 2.1.4-1	
  - Liol-E Taktausgang erlaubt Logik, wenn Turmfeuer Takt = off
  - Diverse Fixes bei FTP-Upload der Logdateien
